@@ -1,152 +1,152 @@
 [[aws_c_cal]]
 arch = "aarch64"
-git-tree-sha1 = "e8161ab7dda41ec3d64ed762409d1f984d1c27ce"
+git-tree-sha1 = "22a107e2783e93d37e7aba57097f1dbabfe15da7"
 os = "macos"
 
     [[aws_c_cal.download]]
-    sha256 = "ee6c8bcd32f085fbc9eb40e73fb1bb1ff44275d1356eb4a1594a2caf3d2b4d13"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.aarch64-apple-darwin.tar.gz"
+    sha256 = "8a4a35e17b26f89bd2a6e0304c84183d0b4c0c5ce566a32dcea8e0d7a1ec6c5f"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.aarch64-apple-darwin.tar.gz"
 [[aws_c_cal]]
 arch = "aarch64"
-git-tree-sha1 = "cd6cff76511463c694faa35dc0223495a5966034"
+git-tree-sha1 = "cefed7e9d21b54c62a68660effaf7ce61fef1abe"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "8143d545181b3c40b3dc07c3e0b76f00c6bd62aa60d7c6a990f94cfc924a8d28"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.aarch64-linux-gnu.tar.gz"
+    sha256 = "4c6f525913832befe127b7087ec0547aa57601ee5b6faaa0ef36452029c9c823"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.aarch64-linux-gnu.tar.gz"
 [[aws_c_cal]]
 arch = "aarch64"
-git-tree-sha1 = "89c676de72187d041588a3e28591dc67730a7dcb"
+git-tree-sha1 = "ca4268d9538c9de8800123e60a0ca1c66eed0dab"
 libc = "musl"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "b8a8a05ff549c5338251b97e9e7ba2ebca5a8d22e0b238cd29f47cad78911df8"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.aarch64-linux-musl.tar.gz"
+    sha256 = "26afa58ada51f0ee01128299a81bb6c089c01a2e2fd49f985942eec99f8b7af3"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.aarch64-linux-musl.tar.gz"
 [[aws_c_cal]]
 arch = "aarch64"
-git-tree-sha1 = "bc7b4eca0242e74e4e03adc6787c8db5482b067f"
+git-tree-sha1 = "250fdd4d3a8cb181050e2a305db61992822c367f"
 os = "freebsd"
 
     [[aws_c_cal.download]]
-    sha256 = "2d96800698aa636e4e0d3e9be162a0a47bf5a454db64b13cea72c6b647ffc3f6"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "5ebc6c5b9f6e3379659fe4807e2a2d5fd3e3b9ab8083479f64a974241522f9ab"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.aarch64-unknown-freebsd.tar.gz"
 [[aws_c_cal]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6dbe76aa8774119a088eb5af2199e7bda308b199"
+git-tree-sha1 = "36fc09afdd65e17b2c67be9b28999033125a0946"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "b107c7b23e4b53cacdbd14bb8264fd5815ccc62f09f5a2ec4ee2fc19724f9315"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "cb3d7b2294d72566a00be2bc0dc35a9158f53c170ecae1849eaa225a75f1ba69"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.armv6l-linux-gnueabihf.tar.gz"
 [[aws_c_cal]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4e557dba5ecee5db2517776008fedf81747a2466"
+git-tree-sha1 = "a337b94d6c94b41787f47fa83bf519e33812a6cc"
 libc = "musl"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "576abd4c7a7b10ad654c18fbe5eb34127f1351abfcf4071eba4e624007dc0c3f"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "1effc0188ae1ad3e919e7d702cdf30cf4b10c21773a54b815282eeae27a583ae"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.armv6l-linux-musleabihf.tar.gz"
 [[aws_c_cal]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "fc49a9c5a34be23f52ab6a93320675662d88986a"
+git-tree-sha1 = "be739af9710fa937b1aadf71fa7305ac4d68c467"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "2385a7707e21e6ab66466e734c7541ed09485b31979fa04c035f7f6f710c8146"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "1a23cd50067cebbcc0c70300c7f0c812b706e051c49723bba2c9e9a1a1ca21a3"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.armv7l-linux-gnueabihf.tar.gz"
 [[aws_c_cal]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "bc80dcd4bf177743f71e9d9bc90d33e884fe8cac"
+git-tree-sha1 = "357f68e61a2380550947f8aa5ac63d0595a88d86"
 libc = "musl"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "3e602971232da09789754c74315909f64dea6f1330e48053c07b16a7cef5c472"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "824afab7319668414b497bef429c7a2c05943cea56058ca6408b578c67116c56"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.armv7l-linux-musleabihf.tar.gz"
 [[aws_c_cal]]
 arch = "i686"
-git-tree-sha1 = "ff01ac61c3e524ba981146bb399e7a256bfbf834"
+git-tree-sha1 = "876da2a7cb189de43376c382d771800cdca61a26"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "8901f2e4ce0bfc603cc99b6e07c1a8d8f7a97c461c1747076be8185137534727"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.i686-linux-gnu.tar.gz"
+    sha256 = "a2742601c886e0a41207cead1a0b61b8e01a7cb813acbbf5ea12dc90a71bd7ff"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.i686-linux-gnu.tar.gz"
 [[aws_c_cal]]
 arch = "i686"
-git-tree-sha1 = "b742362bd031dbcb2ddbfc94d4bb9cb64c79e95c"
+git-tree-sha1 = "a1d460fbe4d31752e9b052019f7f2d3d5d330610"
 libc = "musl"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "8260fde2c789e451e17eda86bfe2fe3f6c354ab4605f5e46f6a49be07a906bd7"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.i686-linux-musl.tar.gz"
+    sha256 = "834cb0bb81208316444f8923d1bdc78bf3c26589e371269effe485c185db1dfa"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.i686-linux-musl.tar.gz"
 [[aws_c_cal]]
 arch = "powerpc64le"
-git-tree-sha1 = "4f685e1b1a862a5b81b4746127ffc701253858ea"
+git-tree-sha1 = "0f5d36147fc7e151f207afe1dfe69ca24a6f9c2b"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "6801b3ec7cadd1922475cf01f2e426776be3c10e64465fb52b3518a8f02832bf"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e1e33314a254d6107c8f92e539f29da3e2df2419197fe91db56ce769c0f92dfa"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.powerpc64le-linux-gnu.tar.gz"
 [[aws_c_cal]]
 arch = "riscv64"
-git-tree-sha1 = "fde81a732c56e502dea5656ce398554bd5e25856"
+git-tree-sha1 = "e8ffb9206d8372b608dfb692bc8b2b7616ab5ef7"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "76e33d6fffff67fb2bc79ea7c2f23aa201fc9a69e7ab2bc56a969f5f1bcf5d89"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.riscv64-linux-gnu.tar.gz"
+    sha256 = "c030900ba7ef81082995e93c7780b4300b2397a0e1f531bcbe3293a31be17040"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.riscv64-linux-gnu.tar.gz"
 [[aws_c_cal]]
 arch = "x86_64"
-git-tree-sha1 = "50e4fd1b69332110abd5497d1c1aec018260635e"
+git-tree-sha1 = "acd65598212b97df4ce1557a82364df04ae4bb5b"
 os = "macos"
 
     [[aws_c_cal.download]]
-    sha256 = "99928f93937cf283e33de1b47cf18d65519c07147067c0b47e2e13c70e9fdc02"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.x86_64-apple-darwin.tar.gz"
+    sha256 = "76e603b6e1e7c2cbb3146850ee9ccb04dad91e48eba74a16e0302c79f445eb3f"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.x86_64-apple-darwin.tar.gz"
 [[aws_c_cal]]
 arch = "x86_64"
-git-tree-sha1 = "db95bc31c94ea4134a86c976a4b0fbf7c704daff"
+git-tree-sha1 = "679d7452683283586d8b3c2b34345ce9be0823b3"
 libc = "glibc"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "e64f0b232b90c06cb62bc1de43e3bec5596fcb2496e2d7c1a53ccdbe5c9e9378"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.x86_64-linux-gnu.tar.gz"
+    sha256 = "f440e4b46bb01f5c2b86f1d27e3ced38d59601d8c02c0f0555924855e288930f"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.x86_64-linux-gnu.tar.gz"
 [[aws_c_cal]]
 arch = "x86_64"
-git-tree-sha1 = "d0a92a3ed9a05e52024d451663e0b595326942d1"
+git-tree-sha1 = "80f4982c743249315f4da08b3ef0afc1383e74f5"
 libc = "musl"
 os = "linux"
 
     [[aws_c_cal.download]]
-    sha256 = "7ec139f011ba3ae9dfbc62afb1b1d23f6e7dcbfc7654a7f29a28585cb898936d"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.x86_64-linux-musl.tar.gz"
+    sha256 = "b87d1892165c043fcd870517027097d1a59880f22f7b8118bbfbc2738ca8ce69"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.x86_64-linux-musl.tar.gz"
 [[aws_c_cal]]
 arch = "x86_64"
-git-tree-sha1 = "0d5650d2bee563774a8335f116994051e3f64251"
+git-tree-sha1 = "a0b2d645cb81dac6a41c1a2e63c15dc70cdd2dbd"
 os = "freebsd"
 
     [[aws_c_cal.download]]
-    sha256 = "c7dc5af249580e121c840a26e9653d65172d7a6dcdecd81c74739bf779a603fc"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "cfa05feba2d318b5ff8de40b4f88dd2e1cfa4c549a4d11b20459cafe4a182f5a"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.x86_64-unknown-freebsd.tar.gz"
 [[aws_c_cal]]
 arch = "x86_64"
-git-tree-sha1 = "a6fab5b0b96ad3a4297f597ecf2bd782b9497011"
+git-tree-sha1 = "3df1f93ea9bf6c8295f8094f9e4603652a034fff"
 os = "windows"
 
     [[aws_c_cal.download]]
-    sha256 = "1b6070969d079b41b0fe8d0c4e74fea8202de1be9aa817323bbd171cd7234aaf"
-    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.11+0/aws_c_cal.v0.9.11.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f284eb87d639414b47fb308d579973596de12cf2a4bd3b38e3d9dad1ee8a5456"
+    url = "https://github.com/JuliaBinaryWrappers/aws_c_cal_jll.jl/releases/download/aws_c_cal-v0.9.12+0/aws_c_cal.v0.9.12.x86_64-w64-mingw32.tar.gz"
